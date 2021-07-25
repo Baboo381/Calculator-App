@@ -1,2 +1,2 @@
 # Calculator-App
-This is simple Calculator
+This is simple a Calculator.
